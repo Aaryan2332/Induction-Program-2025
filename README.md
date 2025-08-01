@@ -13,7 +13,7 @@ Mobile Number -> 6230310156
 
 Email ID -> aarucode2332@gmail.com
 
-![This is an alt text.](/image/C:\Users\hp\Desktop\new img.jpg "This is my image.")
+![This is an alt text.](/image/new img.webp "This is my image.")
 
 ## Day-1(First Day In college)
 
