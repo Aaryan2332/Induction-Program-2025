@@ -37,10 +37,6 @@ She told us about One's Personal growth and development.
 
 She also gave us major 3P's for Success in Life :-
 
-## Lists
-
-### Unordered
-
 * Preservence
 * Patience
 * Prayer
