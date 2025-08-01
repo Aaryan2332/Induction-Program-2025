@@ -2,11 +2,17 @@
 ## Introduction
 
 Name -> Aaryan Sharma 
+
 Father's Name -> Ajay Sharma
+
 Branch -> 
+
 Registration Number -> 25103161
+
 Mobile Number -> 6230310156
+
 Email ID -> aarucode2332@gmail.com
+
 ![This is an alt text.](/image/"C:\Users\hp\Desktop\new img.jpg "This is my image.")
 
 ## Day-1(First Day In college)
