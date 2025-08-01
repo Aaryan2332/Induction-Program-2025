@@ -29,7 +29,7 @@
 
 ## Speeches and Key Points 
 
-At **10:00 AM**, the Induction Programm Continued at Auditorium, there we also celebrated the 70 Years of Legacy.
+At **10:00 AM**, the Induction Programm Continued at Auditorium, there we also celebrated the 70 Years of Legacy of College.
 
 **Dr. Harmpreet Kaur Grewal(Head OF Applied Sciences) address us and gave her Golden Words.**
 
@@ -46,5 +46,5 @@ She also gave us major 3P's for Success in Life :-
 ## College Presentation By Senior College Students
 
   * Firstly, they told us about the history of the GNE college and how it was estb. in **1956**.
-  * They also let us knew about college's radio station for students which will help them to connect with People.
+  * They also let us knew about college's radio station for students which will helps us to connect with People.
   * They also tell us about the wonderful Library and the facilities provided in them.
