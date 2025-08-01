@@ -41,7 +41,7 @@ She also gave us major 3P's for Success in Life :-
 
 ### Unordered
 
-1. Preservence
-2. Patience
-3. Prayer
+* Preservence
+* Patience
+* Prayer
 
