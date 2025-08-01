@@ -13,7 +13,7 @@ Mobile Number -> 6230310156
 
 Email ID -> aarucode2332@gmail.com
 
-<img src="C:\Users\hp\Desktop\new img.jpg" width=20 height=30>
+<img src="C:\Users\hp\Desktop\new img.jpg" width=200 height=200>
 
 ## Day-1(First Day In college)
 
