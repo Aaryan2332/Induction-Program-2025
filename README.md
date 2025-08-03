@@ -5,7 +5,7 @@
 
 **Father's Name -> Ajay Sharma**
 
-**Branch ->** 
+**Branch -> IT-A1** 
 
 **Registration Number -> 25103161**
 
@@ -35,7 +35,7 @@ At **10:00 AM**, the Induction Programm Continued at Auditorium, there we also c
 
 She told us about One's Personal growth and development.
 
-She also gave us major 3P's for Success in Life :-
+## She also gave us major 3P's for Success in Life :-
 
   * **Preservence**
   * **Patience**
@@ -48,3 +48,17 @@ She also gave us major 3P's for Success in Life :-
   * Firstly, they told us about the history of the GNE college and how it was estb. in **1956**.
   * They also let us knew about college's radio station for students which will helps us to connect with People.
   * They also tell us about the wonderful Library and the facilities provided in them.
+
+## Speech by Akshay Sir (Dean Academics)
+
+   * **First he told us about two types of skills required for students.**
+   *  **Vertical Skills**(these are the core technical knowledge) and are must need skills for the students.
+   *  **Horizontal Skills**(Not only technical skills but also soft skills or good communication skiils are also needed for students for their carrer growth).
+   *  He also encouraged students to go beyond and be curious in life.
+   *  He also motivated students to solve problems for the society.
+   *  According his speech he also inspired students to take part in extra curricular activities that will help students to increase their confidence.
+
+     
+    
+    
+
