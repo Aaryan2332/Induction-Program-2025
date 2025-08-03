@@ -89,7 +89,15 @@ She told us about One's Personal growth and development.
    * He also gave some reality checks to students that conclude that in today's era how students don't even know base of anything that they are studying.
    * Then he tolds us some intresting stories of Guru Nanak Dev Ji related to studies.
    * Then comes the most intresting part of the session he shows some physics practial like **Wave motion by using the straws** and **Resonance Effect**.
-   * At last of the sessions he shows us some amazing mathematics hacks.
+   * At last of the sessions he shows us some amazing mathematics hack.
+
+ ## Speech 2 of Universal Human Values by (Dr. Priya Darshni Ma'am)
+
+   * She told that there is no use of that Physical facilities if you are not Happy and Prosperous in Life.
+   * Then she cleared many students misconceptions about money that it is not the ultimate source of happiness.
+   * She told for being happy we must have the good relationships with our family and freinds.
+   * She also inspires students to spend time on understanding their ownselves.
+   * And at the end she take doubts of many students and End the wonderful session.
    
 
      
