@@ -17,7 +17,7 @@
 
 ## Day-1(First Day In college)
 
-## Around (8:30 to 9:30) First Visited The College's Gurudwara.
+### Around (8:30 to 9:30) First Visited The College's Gurudwara.
 
 **1. Visited the Gurudwara Sabhib.**
 
