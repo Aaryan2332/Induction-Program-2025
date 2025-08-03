@@ -19,13 +19,13 @@
 
 ### Around (8:30 to 9:30) First Visited The College's Gurudwara.
 
-**1. Visited the Gurudwara Sabhib.**
+   * Visited the Gurudwara Sabhib.
 
-**2. We found that from inside it looks like a ship.**
+   * We found that from inside it looks like a ship.
 
-**3. Moreover in that auspicious ship we travelled for atleast 1 hour.**
+   * Moreover in that auspicious ship we travelled for atleast 1 hour.
 
-**4. We were blessed for starting our new journey in GNDEC college.**
+   * We were blessed for starting our new journey in GNDEC college.
 
 ## Speeches and Key Points 
 
@@ -66,14 +66,31 @@ She told us about One's Personal growth and development.
    * In next hour from (10:30 to 11:30) there was maths test.
 * Then there was break for students of 1.5 hour.
 
- ## First Speech For A Programm Buddy4Study by (Manoj Kumar, Manish Kumar and Shivam Sharma)
+ ## First Speech For A Programm *Buddy4Study* by (Manoj Kumar, Manish Kumar and Shivam Sharma)
 
    * The Programm was well described by the Orators.
    * Basically the programm was for providing the funds to the **Needy students** for their college tution fees.
    * They in detailed told us how to register for the scolarship.
    * Moreover, the programm also have the option for those who have the capacity to donate money for the needy students for their studies. 
 
+## Second Speech *Role of Food* by (Arashdeep Singh)
 
+   * He told the students how much there is importance of food in student's life.
+   * He told students that we should eat everything in life but in limit otherwise it may leads to serious health issues.
+   * Moreover he also addressed many misconception of students according to food that what we should eat or not.
+   * He also gave many important tips for the students that they should follow in life related to food for their good mental and physical health.
+
+## Day 3
+
+ ## Wonderful Speech and Experiments by (Dr. Jaswinder Singh) 
+
+   * He started the speech in very intractive way by relating the science with God words.
+   * Moreover he let's us know that in each and everything that we see around us contains mathemaitcs.
+   * He also gave some reality checks to students that conclude that in today's era how students don't even know base of anything that they are studying.
+   * Then he tolds us some intresting stories of Guru Nanak Dev Ji related to studies.
+   * Then comes the most intresting part of the session he shows some physics practial like **Wave motion by using the straws** and **Resonance Effect**.
+   * At last of the sessions he shows us some amazing mathematics hacks.
+   
 
      
     
