@@ -58,6 +58,10 @@ She told us about One's Personal growth and development.
    *  He also motivated students to solve problems for the society.
    *  According his speech he also inspired students to take part in extra curricular activities that will help students to increase their confidence.
 
+## Day 2
+
+
+
      
     
     
