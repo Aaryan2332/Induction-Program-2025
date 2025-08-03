@@ -60,6 +60,19 @@ She told us about One's Personal growth and development.
 
 ## Day 2
 
+### **The day started with a Profeiciency Test of English and Mathematics.**
+   
+   * In first 1 hour from (9:30 to 10:30) there was english test.
+   * In next hour from (10:30 to 11:30) there was maths test.
+* Then there was break for students of 1.5 hour.
+
+ ## First Speech For A Programm Buddy4Study by (Manoj Kumar, Manish Kumar and Shivam Sharma)
+
+   * The Programm was well described by the Orators.
+   * Basically the programm was for providing the funds to the **Needy students** for their college tution fees.
+   * They in detailed told us how to register for the scolarship.
+   * Moreover, the programm also have the option for those who have the capacity to donate money for the needy students for their studies. 
+
 
 
      
