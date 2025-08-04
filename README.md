@@ -116,7 +116,17 @@ She told us about One's Personal growth and development.
    * He also told us about the basics queries about the subject and gave some insights of Organic chemistry.
    * At last he had taken doubts of students and ended the lecture.
 
+ ## Then there was a session-2 of UHV By (Priya Darshni Ma'am)
 
+   * At first she gave us the summary of previous session held on Day 3.
+   * Then he told the concept of natural acceptance that how it works with human behaviour.
+   * After that in detail she told us the meaning of Happiness, she told that it is state of situation in which we live.
+   * She concluded the concept of happiness with a point that if we are living with harmony than we are happy.
+   * She also cleared the misconception of many students that happiness and excitement both are different things.
+   * She told that Physical Facilities only provides excitement not happiness.
+   * The most important point she told the loop in which most of the people are stuck. The loop consists of Excitement, Indulgence, Depression and then Escape.
+   * She also gave some practical example to clear many topics related to the session.
+   * At the end she took doubts of students.
    
 
      
