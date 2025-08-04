@@ -98,6 +98,25 @@ She told us about One's Personal growth and development.
    * She told for being happy we must have the good relationships with our family and freinds.
    * She also inspires students to spend time on understanding their ownselves.
    * And at the end she take doubts of many students and End the wonderful session.
+
+## Day 4 
+
+ ## Introduction Class Of English By (Prof. Aastik Sharma)  
+
+   * At First he gave us three questions and said us to answer them in 15 minutes.(Basically the question were based on basic introduction)
+   * Secondly, he gave us a letter to write in the class.(In that time being he was asking the introduction from random students)
+   * After all of that he gave us his own introduction.
+   * And finally by ending the lecture he gave us some brillant tips to improve our english.
+
+ ## Introduction Class Of Chemistry By (Prof. Karan Bhalla)
+
+   * Firstly when he entered the class he gave us wonderfull introduction of his own and then he started personally asking introduction of all students.
+   * Then he told us about the college curriculum and told that how to take placements and what parameters does the comapnies look to appoint a student.
+   * Then he asked the students about the session that we have attended on UHV By Priya Darshni mam.
+   * He also told us about the basics queries about the subject and gave some insights of Organic chemistry.
+   * At last he had taken doubts of students and ended the lecture.
+
+
    
 
      
