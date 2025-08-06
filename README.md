@@ -98,6 +98,8 @@ She told us about One's Personal growth and development.
    * Then comes the most intresting part of the session he shows some physics practial like **Wave motion by using the straws** and **Resonance Effect**.
    * At last of the sessions he shows us some amazing mathematics hack.
 
+   <img src = "https://github.com/user-attachments/assets/b6167d9a-97df-422f-b86a-2db3b4173e3e" width =350 height=350 >
+
  ## Speech 2 of Universal Human Values by (Dr. Priya Darshni Ma'am)
 
    * She told that there is no use of that Physical facilities if you are not Happy and Prosperous in Life.
