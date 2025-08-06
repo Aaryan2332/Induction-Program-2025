@@ -78,6 +78,8 @@ She told us about One's Personal growth and development.
    * They in detailed told us how to register for the scolarship.
    * Moreover, the programm also have the option for those who have the capacity to donate money for the needy students for their studies. 
 
+<img src = "https://github.com/user-attachments/assets/885f411a-21f6-4c36-9294-2e53596197c5" width = 250 height = 250>
+
 ## Second Speech *Role of Food* by (Arashdeep Singh)
 
    * He told the students how much there is importance of food in student's life.
