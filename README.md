@@ -38,6 +38,8 @@ At **10:00 AM**, the Induction Programm Continued at Auditorium, there we also c
 
 She told us about One's Personal growth and development.
 
+<img src= "https://github.com/user-attachments/assets/ff1ffa12-d502-46ed-bf96-c6928a843dfd" width = 300 height = 300>
+
 ## She also gave us major 3P's for Success in Life :-
 
   * **Preservence**
