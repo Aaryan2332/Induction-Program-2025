@@ -133,9 +133,10 @@ She told us about One's Personal growth and development.
    * She told that Physical Facilities only provides excitement not happiness.
    * The most important point she told the loop in which most of the people are stuck. The loop consists of Excitement, Indulgence, Depression and then Escape.
    * She also gave some practical example to clear many topics related to the session.
+   * At the end she took doubts of students.
 
 <img src = "https://github.com/user-attachments/assets/43f6d9d6-c1a8-467f-a366-28ed98ea0cbe" width=300 height = 300>
-   * At the end she took doubts of students.
+   
    
 
      
