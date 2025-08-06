@@ -151,6 +151,8 @@ She told us about One's Personal growth and development.
    * They provided us some insights that how to right the code on paper accurately.
    * After that lecture they also gave a homework question to solve.
 
+<img src = "https://github.com/user-attachments/assets/45e7b90d-8fe1-46b9-9631-006a89787cee" width = 300 height = 300>
+
  ## Second Lecture BEEE (By Simranjeet Kaur Ma'am)
 
    * When Simranjeet ma'am entered the hall gave us her introduction about her qualifications and experiences at gndec.
