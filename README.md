@@ -27,8 +27,8 @@
 
    * We were blessed for starting our new journey in GNDEC college.
 
-<img src = "https://github.com/user-attachments/assets/6b820f12-105f-4be1-bf67-175ec16202a2" width = 200 height= 200>
-<img src = "https://github.com/user-attachments/assets/67ce764a-0b98-422c-a579-d8b7d6cdd7cf" width = 200 height = 200>
+<img src = "https://github.com/user-attachments/assets/6b820f12-105f-4be1-bf67-175ec16202a2" width = 300 height= 300>
+<img src = "https://github.com/user-attachments/assets/67ce764a-0b98-422c-a579-d8b7d6cdd7cf" width = 300 height = 300>
 
 ## Speeches and Key Points 
 
@@ -78,7 +78,7 @@ She told us about One's Personal growth and development.
    * They in detailed told us how to register for the scolarship.
    * Moreover, the programm also have the option for those who have the capacity to donate money for the needy students for their studies. 
 
-<img src = "https://github.com/user-attachments/assets/885f411a-21f6-4c36-9294-2e53596197c5" width = 250 height = 250>
+<img src = "https://github.com/user-attachments/assets/885f411a-21f6-4c36-9294-2e53596197c5" width = 350 height = 350>
 
 ## Second Speech *Role of Food* by (Arashdeep Singh)
 
@@ -137,11 +137,29 @@ She told us about One's Personal growth and development.
    * She also gave some practical example to clear many topics related to the session.
    * At the end she took doubts of students.
 
-<img src = "https://github.com/user-attachments/assets/43f6d9d6-c1a8-467f-a366-28ed98ea0cbe" width=300 height = 300>
+<img src = "https://github.com/user-attachments/assets/43f6d9d6-c1a8-467f-a366-28ed98ea0cbe" width=400 height = 400>
    
-   
+## Day 5 (Attended The Subjects Lectures)
 
+ ## First Lecture P2P (Peer To Peer)
+
+   * Two of the senior students teached us about the Programming language.
+   * They at very first asked students that what is basically programming and how it works on computers.
+   * Then they introduced us with one of the programming language which was C++.
+   * They told us about the basics of the language like how to print and give input in that language.
+   * Moreover, they told about variables and Data types in C++ language like (char, int, bool, string and float). 
+   * They provided us some insights that how to right the code on paper accurately.
+   * After that lecture they also gave a homework question to solve.
+
+ ## Second Lecture BEEE (By Simranjeet Kaur Ma'am)
+
+   * When Simranjeet ma'am entered the hall gave us her introduction about her qualifications and experiences at gndec.
+   * Then she one by one started asking the students their students.
+   * After that she told us how access the syllabus of BEEE and other subjects from the college official site.
+   * She told us about the in breif about the syllabus of her subject which chapters are there and how to study them and how they are related to each other.
+   * Then she intracted with students by asking till how much topics they have already covered in the high school (+1 & +2).
+   * At last she gave us the basic difference between the Electrical and Electronics.
      
-    
-    
+## Day 6 
 
+ ## 
