@@ -164,4 +164,12 @@ She told us about One's Personal growth and development.
      
 ## Day 6 
 
+ ## Maths Lecture By (Prof.Sukhminder Singh) 
+
+   * First the lecture started in a unique way he did not took our intro and not even taught us he told how to us the gne academics site how to view the syllabus and to check the profile of each Professor.
+   * He let us knew about him and how much experience he have in gndec as Professor and also told that how critial is one's phone number he guided us not to provide each and everyone  our phone number because it is interconnected with our bank accounts, adhar card, pan card etc.
+   * But the most intresting part of the lecture comes here that he tells some of the mathematical apps in play store that made more of the hard concepts easy enough to analyze them graphically.
+   * He told us about the apps like Desmos, GeoGebra and Wolfram alpha.
+   * At last guided us to revise the formulas and some key concepts of Differention and Integration and ended the lecture.
+
  ## 
