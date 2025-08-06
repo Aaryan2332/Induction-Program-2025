@@ -28,6 +28,7 @@
    * We were blessed for starting our new journey in GNDEC college.
 
 <img src = "https://github.com/user-attachments/assets/6b820f12-105f-4be1-bf67-175ec16202a2" width = 200 height= 200>
+<img src = "https://github.com/user-attachments/assets/67ce764a-0b98-422c-a579-d8b7d6cdd7cf" width = 200 height = 200>
 
 ## Speeches and Key Points 
 
