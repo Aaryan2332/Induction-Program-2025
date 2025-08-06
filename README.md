@@ -27,6 +27,8 @@
 
    * We were blessed for starting our new journey in GNDEC college.
 
+<img src = "https://github.com/user-attachments/assets/6b820f12-105f-4be1-bf67-175ec16202a2" width = 200 height= 200>
+
 ## Speeches and Key Points 
 
 At **10:00 AM**, the Induction Programm Continued at Auditorium, there we also celebrated the 70 Years of Legacy of College.
