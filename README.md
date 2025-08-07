@@ -1,4 +1,4 @@
-# Induction-Program-2025
+# Induction-Program (GNDEC-2025)
 ## Introduction
 
 **Name -> Aaryan Sharma**
