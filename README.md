@@ -40,7 +40,7 @@ She told us about One's Personal growth and development.
 
 <img src= "https://github.com/user-attachments/assets/ff1ffa12-d502-46ed-bf96-c6928a843dfd" width = 300 height = 300>
 
-## Dr. Harmpreet Kaur Grewal also gave us major 3P's for Success in Life :-
+### Dr. Harmpreet Kaur Grewal also gave us major 3P's for Success in Life :-
 
   * **Preservence**
   * **Patience**
@@ -48,13 +48,13 @@ She told us about One's Personal growth and development.
     
 * She also told us about how **Sincerity** and **Discipline** play in important role in student's life.
 
-## College Presentation By Senior College Students
+### College Presentation By Senior College Students
 
   * Firstly, they told us about the history of the GNE college and how it was estb. in **1956**.
   * They also let us knew about college's radio station for students which will helps us to connect with People.
   * They also tell us about the wonderful Library and the facilities provided in them.
 
-## Speech by Akshay Sir (Dean Academics)
+### Speech by Akshay Sir (Dean Academics)
 
    * **First he told us about two types of skills required for students.**
    *  **Vertical Skills**(these are the core technical knowledge) and are must need skills for the students.
@@ -71,7 +71,7 @@ She told us about One's Personal growth and development.
    * In next hour from (10:30 to 11:30) there was maths test.
 * Then there was break for students of 1.5 hour.
 
- ##  A Programm Buddy4Study by (Manoj Kumar, Manish Kumar and Shivam Sharma)
+ ###  A Programm Buddy4Study by (Manoj Kumar, Manish Kumar and Shivam Sharma)
 
    * The Programm was well described by the Orators.
    * Basically the programm was for providing the funds to the **Needy students** for their college tution fees.
@@ -80,7 +80,7 @@ She told us about One's Personal growth and development.
 
 <img src = "https://github.com/user-attachments/assets/885f411a-21f6-4c36-9294-2e53596197c5" width = 350 height = 350>
 
-##  Role of Food by (Arashdeep Singh)
+###  Role of Food by (Arashdeep Singh)
 
    * He told the students how much there is importance of food in student's life.
    * He told students that we should eat everything in life but in limit otherwise it may leads to serious health issues.
@@ -89,7 +89,7 @@ She told us about One's Personal growth and development.
 
 ## Day 3
 
- ## Wonderful Speech and Experiments by (Dr. Jaswinder Singh) 
+ ### Wonderful Speech and Experiments by (Dr. Jaswinder Singh) 
 
    * He started the speech in very intractive way by relating the science with God words.
    * Moreover he let's us know that in each and everything that we see around us contains mathemaitcs.
@@ -100,7 +100,7 @@ She told us about One's Personal growth and development.
 
    <img src = "https://github.com/user-attachments/assets/b6167d9a-97df-422f-b86a-2db3b4173e3e" width =350 height=350 >
 
- ## Universal Human Values by (Dr. Priya Darshni Ma'am)
+ ### Universal Human Values by (Dr. Priya Darshni Ma'am)
 
    * She told that there is no use of that Physical facilities if you are not Happy and Prosperous in Life.
    * Then she cleared many students misconceptions about money that it is not the ultimate source of happiness.
@@ -110,14 +110,14 @@ She told us about One's Personal growth and development.
 
 ## Day 4 
 
- ## Introduction Class Of English By (Prof. Aastik Sharma)  
+ ### Introduction Class Of English By (Prof. Aastik Sharma)  
 
    * At First he gave us three questions and said us to answer them in 15 minutes.(Basically the question were based on basic introduction)
    * Secondly, he gave us a letter to write in the class.(In that time being he was asking the introduction from random students)
    * After all of that he gave us his own introduction.
    * And finally by ending the lecture he gave us some brillant tips to improve our english.
 
- ## Introduction Class Of Chemistry By (Prof. Karan Bhalla)
+ ### Introduction Class Of Chemistry By (Prof. Karan Bhalla)
 
    * Firstly when he entered the class he gave us wonderfull introduction of his own and then he started personally asking introduction of all students.
    * Then he told us about the college curriculum and told that how to take placements and what parameters does the comapnies look to appoint a student.
@@ -125,7 +125,7 @@ She told us about One's Personal growth and development.
    * He also told us about the basics queries about the subject and gave some insights of Organic chemistry.
    * At last he had taken doubts of students and ended the lecture.
 
- ## Then there was a session-2 of UHV By (Priya Darshni Ma'am)
+ ### Then there was a session-2 of UHV By (Priya Darshni Ma'am)
 
    * At first she gave us the summary of previous session held on Day 3.
    * Then he told the concept of natural acceptance that how it works with human behaviour.
@@ -141,7 +141,7 @@ She told us about One's Personal growth and development.
    
 ## Day 5 (Attended The Subjects Lectures)
 
- ## First Lecture P2P (Peer To Peer)
+ ### First Lecture P2P (Peer To Peer)
 
    * Two of the senior students teached us about the Programming language.
    * They at very first asked students that what is basically programming and how it works on computers.
@@ -153,7 +153,7 @@ She told us about One's Personal growth and development.
 
 <img src = "https://github.com/user-attachments/assets/45e7b90d-8fe1-46b9-9631-006a89787cee" width = 300 height = 300>
 
- ## Second Lecture BEEE (By Simranjeet Kaur Ma'am)
+ ### Second Lecture BEEE (By Simranjeet Kaur Ma'am)
 
    * When Simranjeet ma'am entered the hall gave us her introduction about her qualifications and experiences at gndec.
    * Then she one by one started asking the students their students.
@@ -164,7 +164,7 @@ She told us about One's Personal growth and development.
      
 ## Day 6 
 
- ## Maths Lecture By (Prof.Sukhminder Singh) 
+ ### Maths Lecture By (Prof.Sukhminder Singh) 
 
    * First the lecture started in a unique way he did not took our intro and not even taught us he told how to us the gne academics site how to view the syllabus and to check the profile of each Professor.
    * He let us knew about him and how much experience he have in gndec as Professor and also told that how critial is one's phone number he guided us not to provide each and everyone  our phone number because it is interconnected with our bank accounts, adhar card, pan card etc.
