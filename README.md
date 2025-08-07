@@ -1,8 +1,6 @@
 # Induction-Program-2025
 ## Introduction
 
-<img src="assets/animation.svg" width="200px">
-
 **Name -> Aaryan Sharma**
 
 **Father's Name -> Ajay Sharma**
