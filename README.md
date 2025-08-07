@@ -71,7 +71,7 @@ She told us about One's Personal growth and development.
    * In next hour from (10:30 to 11:30) there was maths test.
 * Then there was break for students of 1.5 hour.
 
- ## First Speech For A Programm *Buddy4Study* by (Manoj Kumar, Manish Kumar and Shivam Sharma)
+ ##  A Programm Buddy4Study by (Manoj Kumar, Manish Kumar and Shivam Sharma)
 
    * The Programm was well described by the Orators.
    * Basically the programm was for providing the funds to the **Needy students** for their college tution fees.
@@ -80,7 +80,7 @@ She told us about One's Personal growth and development.
 
 <img src = "https://github.com/user-attachments/assets/885f411a-21f6-4c36-9294-2e53596197c5" width = 350 height = 350>
 
-## Second Speech *Role of Food* by (Arashdeep Singh)
+##  Role of Food by (Arashdeep Singh)
 
    * He told the students how much there is importance of food in student's life.
    * He told students that we should eat everything in life but in limit otherwise it may leads to serious health issues.
@@ -100,7 +100,7 @@ She told us about One's Personal growth and development.
 
    <img src = "https://github.com/user-attachments/assets/b6167d9a-97df-422f-b86a-2db3b4173e3e" width =350 height=350 >
 
- ## Speech 2 of Universal Human Values by (Dr. Priya Darshni Ma'am)
+ ## Universal Human Values by (Dr. Priya Darshni Ma'am)
 
    * She told that there is no use of that Physical facilities if you are not Happy and Prosperous in Life.
    * Then she cleared many students misconceptions about money that it is not the ultimate source of happiness.
@@ -172,4 +172,4 @@ She told us about One's Personal growth and development.
    * He told us about the apps like Desmos, GeoGebra and Wolfram alpha.
    * At last guided us to revise the formulas and some key concepts of Differention and Integration and ended the lecture.
 
- ## 
+ 
