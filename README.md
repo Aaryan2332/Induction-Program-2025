@@ -170,6 +170,25 @@ She told us about One's Personal growth and development.
    * He let us knew about him and how much experience he have in gndec as Professor and also told that how critial is one's phone number he guided us not to provide each and everyone  our phone number because it is interconnected with our bank accounts, adhar card, pan card etc.
    * But the most intresting part of the lecture comes here that he tells some of the mathematical apps in play store that made more of the hard concepts easy enough to analyze them graphically.
    * He told us about the apps like Desmos, GeoGebra and Wolfram alpha.
-   * At last guided us to revise the formulas and some key concepts of Differention and Integration and ended the lecture.
+   * At last he guided us to revise the formulas and some key concepts of Differention and Integration and ended the lecture.
+
+ ### P2P lecture By a Senior
+
+   * At first he made us revised with the previous class that how to cout and cin what are the data types.
+   * After that he started a new concept whcih was conditions that are (if and else) gave us two questions and explained us how to solve that.
+   * At last we also studied for loops in c++ and solved a question related to it.
+
+ ### Introduction to CML (By Dr.Lakhvir singh Khana)
+
+   * At the starting of the session he gave us an introduction on CML that how it is different from other clubs present in the college and what are the benefits to participate in it.
+   * Some benefits like in this club we can develop our communication skills, software skills and many more.
+   * After that he also tolds us how one can apply to this and at that time only he provided us the google form to participate in it and almost everyone filled the form.
+   * He also gave some glimpses about their success and achievements.
+   * After that started the most important part of the session he told us about the NPTEL and the Swayam websites that offers a good number of courses for UG and PG students.
+   * He also told us the importance of the site and the benefits that it provides to the students.
+   * He also guided the students step wise how to enroll to the particular course and further how to register for it.
+   * Some of benefits that he told us like after completing this course we get the certificate of that course from IIT's and IISC the top institutions of the world.
+   * We also get the some grade points after completing the course which helps the students in the college course.
+   * After that he ended this informative session by guiding the students to must apply for atleast one course of Swayam
 
  
