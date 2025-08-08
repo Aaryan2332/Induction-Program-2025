@@ -191,4 +191,5 @@ She told us about One's Personal growth and development.
    * We also get the some grade points after completing the course which helps the students in the college course.
    * After that he ended this informative session by guiding the students to must apply for atleast one course of Swayam
 
- 
+ <img src ="https://github.com/user-attachments/assets/0b86dffb-bbe5-4614-93f9-efe802c1ddea" width = 350 height = 350>
+  <img src ="" width = 350 height = 350>
