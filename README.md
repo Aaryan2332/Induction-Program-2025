@@ -196,4 +196,5 @@ She told us about One's Personal growth and development.
 
 ## Day 7 
 
- ### 
+ ### Students Welfare - Clubs and Sports
+ #### Orator:- Dr. Parminder Singh 
