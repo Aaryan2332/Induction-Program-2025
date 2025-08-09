@@ -210,7 +210,7 @@ She told us about One's Personal growth and development.
    * Then he told us about the achivements and honors received by our college in previous years by the college students.
    * He also told us about the other sports facilities that college provides to the students like we can also access the gym and many more.
    * After that by ending the session he told huge number of scholarships for the students that we can avail for paying our college fees.
-<img src = "" width = 300 height =300>
+<img src = "https://github.com/user-attachments/assets/c3c13abe-c90d-4b03-b430-b2462ac8645f" width = 300 height =300>
 
  ###  DMC (Digital Marketing Club)
  #### Orator-> Dr.Amit Kamra Sir
