@@ -54,7 +54,8 @@ She told us about One's Personal growth and development.
   * They also let us knew about college's radio station for students which will helps us to connect with People.
   * They also tell us about the wonderful Library and the facilities provided in them.
 
-### Speech by Akshay Sir (Dean Academics)
+### Speech by Dean Academics
+#### Orator-> Akshay Sir
 
    * **First he told us about two types of skills required for students.**
    *  **Vertical Skills**(these are the core technical knowledge) and are must need skills for the students.
@@ -71,8 +72,8 @@ She told us about One's Personal growth and development.
    * In next hour from (10:30 to 11:30) there was maths test.
 * Then there was break for students of 1.5 hour.
 
- ###  A Programm Buddy4Study by (Manoj Kumar, Manish Kumar and Shivam Sharma)
-
+ ###  A Programm Buddy4Study 
+ ####  Orator-> Manoj Kumar, Manish Kumar and Shivam Sharma
    * The Programm was well described by the Orators.
    * Basically the programm was for providing the funds to the **Needy students** for their college tution fees.
    * They in detailed told us how to register for the scolarship.
@@ -80,8 +81,8 @@ She told us about One's Personal growth and development.
 
 <img src = "https://github.com/user-attachments/assets/885f411a-21f6-4c36-9294-2e53596197c5" width = 350 height = 350>
 
-###  Role of Food by (Arashdeep Singh)
-
+###  Role of Food by (Arshdeep Singh)
+ ####  Orator-> Arshdeep Singh
    * He told the students how much there is importance of food in student's life.
    * He told students that we should eat everything in life but in limit otherwise it may leads to serious health issues.
    * Moreover he also addressed many misconception of students according to food that what we should eat or not.
@@ -89,8 +90,9 @@ She told us about One's Personal growth and development.
 
 ## Day 3
 
- ### Wonderful Speech and Experiments by (Dr. Jaswinder Singh) 
-
+ ### Wonderful Speech and Experiments
+ ####  Orator-> Dr. Jaswinder Singh 
+  
    * He started the speech in very intractive way by relating the science with God words.
    * Moreover he let's us know that in each and everything that we see around us contains mathemaitcs.
    * He also gave some reality checks to students that conclude that in today's era how students don't even know base of anything that they are studying.
@@ -100,8 +102,8 @@ She told us about One's Personal growth and development.
 
    <img src = "https://github.com/user-attachments/assets/b6167d9a-97df-422f-b86a-2db3b4173e3e" width =350 height=350 >
 
- ### Universal Human Values by (Dr. Priya Darshni Ma'am)
-
+ ### Universal Human Values
+ ####  Orator-> Dr. Priya Darshni Ma'am
    * She told that there is no use of that Physical facilities if you are not Happy and Prosperous in Life.
    * Then she cleared many students misconceptions about money that it is not the ultimate source of happiness.
    * She told for being happy we must have the good relationships with our family and freinds.
@@ -125,8 +127,9 @@ She told us about One's Personal growth and development.
    * He also told us about the basics queries about the subject and gave some insights of Organic chemistry.
    * At last he had taken doubts of students and ended the lecture.
 
- ### Then there was a session-2 of UHV By (Priya Darshni Ma'am)
-
+ ### Then there was a session-2 of UHV
+ #### Orator-> Dr. Priya Darshni Ma'am
+   
    * At first she gave us the summary of previous session held on Day 3.
    * Then he told the concept of natural acceptance that how it works with human behaviour.
    * After that in detail she told us the meaning of Happiness, she told that it is state of situation in which we live.
@@ -178,8 +181,9 @@ She told us about One's Personal growth and development.
    * After that he started a new concept whcih was conditions that are (if and else) gave us two questions and explained us how to solve that.
    * At last we also studied for loops in c++ and solved a question related to it.
 
- ### Introduction to CML (By Dr.Lakhvir singh Khana)
-
+ ### Introduction to CML 
+ #### Orator -> Dr.Lakhvir Singh Khana
+  
    * At the starting of the session he gave us an introduction on CML that how it is different from other clubs present in the college and what are the benefits to participate in it.
    * Some benefits like in this club we can develop our communication skills, software skills and many more.
    * After that he also tolds us how one can apply to this and at that time only he provided us the google form to participate in it and almost everyone filled the form.
@@ -196,5 +200,32 @@ She told us about One's Personal growth and development.
 
 ## Day 7 
 
+**At the first the Day was started by taking the name of the God.**
+
  ### Students Welfare - Clubs and Sports
- #### Orator:- Dr. Parminder Singh 
+ #### Orator-> Dr. Parminder Singh 
+
+   * Dr. Parminder Singh started him session through the importance of sports and other activites in our life.
+   * After that he told us about the number of sports present in the college and what were the sports like (cricket, basketball, volleyball etc.)
+   * Then he told us about the achivements and honors received by our college in previous years by the college students.
+   * He also told us about the other sports facilities that college provides to the students like we can also access the gym and many more.
+   * After that by ending the session he told huge number of scholarships for the students that we can avail for paying our college fees.
+<img src = "" width = 300 height =300>
+
+ ###  DMC (Digital Marketing Club)
+ #### Orator-> Dr.Amit Kamra Sir
+
+   * At the beginning of the session he introduced us with his teamates who were none other than the college senior students.
+   * And then he introduced us with digitial marketing club which the college runs.
+   * After that gave us a veiw to the college DMC club and its some achievements and works which were done by the college students only.
+   * He also told us how one can enroll to this club he just want that one should be familiar with the basics editing and photoshop or with content writing in short he want a guy who have some creativity.
+   * After the enrolling process he shows us some iconic drone shots which of college which were operated by the students only.
+   * He also told us that what is the scope of this skill in the market and what are the benefits to equip with it. And then ended the session.
+
+ ###  Conduct Of Examinations
+ #### Orator-> Dr. Randhir Singh Sir
+
+   * First of all by starting the session he told us about the acdemics site of the college and  informated us with the site. like related to our studies, results, Fees and many other things.
+   * After that he exaplained us with the minutes details of the examinations like each and everything related to the exams.
+   * At the starting of the details he told about how much marks of the paper will be conducted in the mid semester and the end of teh semester.
+   * Moreover, he also told us about the division of marks in practical and theory exams. 
