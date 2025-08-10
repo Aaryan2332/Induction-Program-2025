@@ -228,4 +228,27 @@ She told us about One's Personal growth and development.
    * First of all by starting the session he told us about the acdemics site of the college and  informated us with the site. like related to our studies, results, Fees and many other things.
    * After that he exaplained us with the minutes details of the examinations like each and everything related to the exams.
    * At the starting of the details he told about how much marks of the paper will be conducted in the mid semester and the end of teh semester.
-   * Moreover, he also told us about the division of marks in practical and theory exams. 
+   * Moreover, he also told us about the division of marks in practical and theory exams.
+   * He also told the importance of the attandence which also consists the marks in exams not only that it is mandatory to have atleast 75% of attandence in each subject.
+
+ ### Chemistry lecture (By-> Karan Bhalla Sir)
+
+   * He started the lecture by providing the syllabus of chemistry.
+   * After that he started a new chapter "Water Chemistry". He first asked from us that what is basically the water and how many types of water are there.
+   * He then classified the water in two types hard water and soft and then he gave us the difference between the them.
+   * He also told us that we should also have the skill to present the answer in the exam and told how to do it.
+   * He then diagrammatically told us the process of Osmosis and Reverse Osmosis and explained the process in detail.
+   * At last he told the types of hardness which were of two types temporary and permanent hardness.
+      
+ ### Mathematics lecture (By-> Sukhminder Singh Sir)
+
+   * He just revised us with the previous differention and integration formulas that we have stuided in class 12 and then also told us some new formulas.
+   * Not only we also have written these fomulas in our notebooks for better revision.
+   * Then he also gave us some formulas as homework.
+
+ ## Conclusion OF Induction Program 
+At last with the end of the Induction Programm of college gave me a very new type of experience in life that I have never experienced in my whole life it was have very energitic and motivating vibes. The important thing I truly appriciate the efforts of seniors that they have stupendously job the whole Induction program and also grateful to seniors for giving the time for our ease so that we don't get at pressure or any type of problem.
+Moreover, the subjects professor's are also very energitic, helpful, kind and motivating. The speeches or session that were held in the auditorium were also informative and made me learn many new things that I have never explored in life. 
+
+<img src = "" width= 500 height = 300>
+
