@@ -250,5 +250,5 @@ She told us about One's Personal growth and development.
 At last with the end of the Induction Programm of college gave me a very new type of experience in life that I have never experienced in my whole life it was have very energitic and motivating vibes. The important thing I truly appriciate the efforts of seniors that they have stupendously job the whole Induction program and also grateful to seniors for giving the time for our ease so that we don't get at pressure or any type of problem.
 Moreover, the subjects professor's are also very energitic, helpful, kind and motivating. The speeches or session that were held in the auditorium were also informative and made me learn many new things that I have never explored in life. 
 
-<img src = "" width= 500 height = 300>
+<img src = "https://github.com/user-attachments/assets/618e382d-314f-4528-8608-d6367ca10f3c" width= 500 height = 300>
 
